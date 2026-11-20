@@ -1,0 +1,1 @@
+{"id": "/app-icons/seikatsu/", "name": "生活管理", "short_name": "生活管理", "start_url": "/app-icons/seikatsu/", "scope": "/app-icons/seikatsu/", "display": "standalone", "background_color": "#1f2a2a", "theme_color": "#1f2a2a", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]}
